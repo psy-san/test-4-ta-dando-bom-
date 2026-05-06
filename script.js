@@ -64,9 +64,10 @@ cor: "#3cf000",
 {
 nome: "Bridget",
 desc: "Ex-Bergen que agora vive em harmonia com os Trolls.",
-img: "bridtey.png",
+img: "bridget.png",
 cor: "#ffb6c1",
 },
+
 {
 nome: "King Gristle Jr.",
 desc: "Rei dos Bergens e marido de Bridget.",
