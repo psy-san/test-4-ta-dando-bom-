@@ -122,6 +122,11 @@ desc: "Irmãs gêmeas fashionistas e inseparáveis.",
 img: "Santin&chenille.jpg",
 cor: "#ff00ff"
 }
+{nome: "DJ Suki",
+desc:"uma troll pop calma, empática e com um visual estiloso, usando fones de ouvido feitos de fio.",
+img:"djsuki.jpg",
+cor:"#ff5900",
+}
 ];
 
 // criar cards
