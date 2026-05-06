@@ -101,8 +101,8 @@ cor: "#a0522d"
 {
 nome: "Cloud Guy",
 desc: "Personagem irritante mas engraçado.",
-img: "https://static.wikia.nocookie.net/trolls/images/cloud_guy.png",
-cor: "#d3d3d3"
+img: "cloud guy.jpg",
+cor: "#d3d3d3",
 },
 {
 nome: "Crimp",
