@@ -4,85 +4,85 @@ const personagens = [
 {
 nome: "Poppy",
 desc: "A rainha otimista dos Trolls, sempre positiva e líder do grupo.",
-background-image: URL(Poppy.jpeg),
 cor: "#ff69b4",
+img:"Poppy.jpeg",
 },
 {
 nome: "Branch",
 desc: "Mais sério e cauteloso, mas leal e corajoso.",
-img: "https://static.wikia.nocookie.net/trolls/images/branch.png",
-cor: "#4169e1"
+img: "tronco.webp",
+cor: "#4169e1",
 },
 {
 nome: "Viva",
 desc: "Irmã perdida de Poppy, líder independente e protetora.",
-img: "https://static.wikia.nocookie.net/trolls/images/viva.png",
-cor: "#ff4500"
+img: "viva.jpg",
+cor: "#ff4500",
 },
 {
 nome: "Floyd",
 desc: "O irmão sensível de Branch, com talento musical.",
-img: "https://static.wikia.nocookie.net/trolls/images/floyd.png",
+img: "Floyd.jpg",
 cor: "#ff0000"
 },
 {
 nome: "John Dory",
 desc: "O líder original da banda BroZone, responsável e determinado.",
-img: "https://static.wikia.nocookie.net/trolls/images/john_dory.png",
-cor: "#00ffff"
+img: "trolls_3_john_dory.jpg",
+cor: "#00ffff",
 },
 {
 nome: "Clay",
 desc: "Irmão divertido e descontraído.",
-img: "https://static.wikia.nocookie.net/trolls/images/clay.png",
-cor: "#00ff00"
+img: "Clay.jpg",
+cor: "#00ff00",
 },
 {
 nome: "Bruce",
 desc: "Ex-Spruce, agora vive em família e é mais maduro.",
-img: "https://static.wikia.nocookie.net/trolls/images/bruce.png",
-cor: "#ffa500"
+img: "Bruce.webp",
+cor: "#7700ff",
 },
 {
 nome: "Tiny Diamond",
 desc: "Pequeno, brilhante e cheio de atitude.",
-img: "https://static.wikia.nocookie.net/trolls/images/tiny_diamond.png",
-cor: "#ffffff"
+img: "Tiny Diamond.jpg",
+cor: "#919191",
 },
 {
 nome: "Velvet",
 desc: "Vilã ambiciosa que busca fama.",
-img: "https://static.wikia.nocookie.net/trolls/images/velvet.png",
-cor: "#ff1493"
+img: "Velvet.jpg",
+cor: "#ff1493",
 },
 {
 nome: "Veneer",
 desc: "Irmão de Velvet, mais inseguro e influenciável.",
-img: "https://static.wikia.nocookie.net/trolls/images/veneer.png",
-cor: "#9370db"
+img: "Veneer.jpg",
+cor: "#3cf000",
 },
 {
 nome: "Bridget",
 desc: "Ex-Bergen que agora vive em harmonia com os Trolls.",
-img: "https://static.wikia.nocookie.net/trolls/images/bridget.png",
-cor: "#ffb6c1"
+img: "Bridtey.png",
+cor: "#ffb6c1",
 },
 {
 nome: "King Gristle Jr.",
 desc: "Rei dos Bergens e marido de Bridget.",
-img: "https://static.wikia.nocookie.net/trolls/images/gristle.png",
-cor: "#8b4513"
+img: "KingGristlejr.jpg",
+cor: "#8b4513",
 },
 {
 nome: "Guy Diamond",
 desc: "Troll glitter cheio de estilo.",
-img: "https://static.wikia.nocookie.net/trolls/images/guy_diamond.png",
-cor: "#e0ffff"
+img: "Guy_Diamond.webp",
+cor: "#e0ffff",
 },
 {
 nome: "Cooper",
 desc: "Troll divertido com personalidade única.",
-img: "https://static.wikia.nocookie.net/trolls/images/cooper.png",
+img: "Cooper.jpg",
 cor: "#ffff00"
 },
 {
