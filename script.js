@@ -89,7 +89,7 @@ cor: "#ffff00"
 {
 nome: "Biggie",
 desc: "Gentil e amigável, sempre com seu bichinho.",
-img: "https://static.wikia.nocookie.net/trolls/images/biggie.png",
+img: "biggle.jpg",
 cor: "#87cefa"
 },
 {
