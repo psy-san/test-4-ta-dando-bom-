@@ -83,7 +83,7 @@ cor: "#e0ffff",
 {
 nome: "Cooper",
 desc: "Troll divertido com personalidade única.",
-img: "Cooper.jpg",
+img: "cooper.jpg",
 cor: "#ffff00"
 },
 {
