@@ -5,7 +5,7 @@ const personagens = [
 nome: "Poppy",
 desc: "A rainha otimista dos Trolls, sempre positiva e líder do grupo.",
 background-image: URL(Poppy.jpeg),
-cor: "#ff69b4"
+cor: "#ff69b4",
 },
 {
 nome: "Branch",
