@@ -107,8 +107,8 @@ cor: "#d3d3d3",
 {
 nome: "Crimp",
 desc: "Assistente de Velvet, trabalhadora e subestimada.",
-img: "https://static.wikia.nocookie.net/trolls/images/crimp.png",
-cor: "#ff6347"
+img: "crimp.jpg",
+cor: "#ff6347",
 },
 {
 nome: "Prince Darnell",
