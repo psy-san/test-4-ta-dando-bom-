@@ -64,7 +64,7 @@ cor: "#3cf000",
 {
 nome: "Bridget",
 desc: "Ex-Bergen que agora vive em harmonia com os Trolls.",
-img: "Bridtey.png",
+img: "bridtey.png",
 cor: "#ffb6c1",
 },
 {
