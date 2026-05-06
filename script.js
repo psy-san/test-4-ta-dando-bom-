@@ -95,7 +95,7 @@ cor: "#87cefa"
 {
 nome: "Mr. Dinkles",
 desc: "O pet de Biggie, pequeno mas importante.",
-img: "Mr-dinkles-webp",
+img: "Mrdinkles.webp",
 cor: "#a0522d"
 },
 {
