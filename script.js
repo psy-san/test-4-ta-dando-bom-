@@ -113,13 +113,13 @@ cor: "#ff6347",
 {
 nome: "Prince Darnell",
 desc: "Troll estiloso com vibe musical.",
-img: "https://static.wikia.nocookie.net/trolls/images/darnell.png",
-cor: "#00ced1"
+img: "princedarnell.jpg",
+cor: "#00ced1",
 },
 {
 nome: "Satin & Chenille",
 desc: "Irmãs gêmeas fashionistas e inseparáveis.",
-img: "https://static.wikia.nocookie.net/trolls/images/satin_chenille.png",
+img: "Santin&chenille.jpg",
 cor: "#ff00ff"
 }
 ];
