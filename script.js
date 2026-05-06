@@ -95,7 +95,7 @@ cor: "#87cefa"
 {
 nome: "Mr. Dinkles",
 desc: "O pet de Biggie, pequeno mas importante.",
-img: "https://static.wikia.nocookie.net/trolls/images/mr_dinkles.png",
+img: "Mr-dinkles-webp",
 cor: "#a0522d"
 },
 {
