@@ -4,7 +4,7 @@ const personagens = [
 {
 nome: "Poppy",
 desc: "A rainha otimista dos Trolls, sempre positiva e líder do grupo.",
-img: "https://static.wikia.nocookie.net/trolls/images/poppy.png",
+img: url(Poppy.jpeg),
 cor: "#ff69b4"
 },
 {
